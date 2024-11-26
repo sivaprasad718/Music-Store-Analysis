@@ -15,19 +15,19 @@ Note: If you are using PostgreSQL then restore the backup file of the database a
 <h2>Questions Answered</h2>
 The following are a few of the questions that are answered in the project (check out analysis.sql file for the rest:
 
-What are the most popular genres of music?<br>
-What are the most popular artists?<br>
-What are the most popular songs?<br>
-What are the average prices of different types of music?<br>
-What are the most popular countries for music purchases?<br>
+1. What are the most popular genres of music?<br>
+2. What are the most popular artists?<br>
+3. What are the most popular songs?<br>
+4. What are the average prices of different types of music?<br>
+5. What are the most popular countries for music purchases?<br>
 
 <h2>Results</h2>
 The results of the project are as follows:
-1. The most popular genre of music is "Rock".
-2. The most popular artist is "Queens".
-3. The most popular song is "War Pigs".
-4. The average price of an album is $1.
-5. The most popular country for music purchases is the United States.
+1. The most popular genre of music is "Rock".<br>
+2. The most popular artist is "Queens".<br>
+3. The most popular song is "War Pigs".<br>
+4. The average price of an album is $1.<br>
+5. The most popular country for music purchases is the United States.<br>
 
 <h2>Conclusion</h2>
 The project was successful in answering the set of questions about the store's business performance. The results of the project can be used by the store to make decisions about its marketing and product offerings.
