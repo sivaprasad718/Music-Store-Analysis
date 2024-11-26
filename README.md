@@ -15,11 +15,11 @@ Note: If you are using PostgreSQL then restore the backup file of the database a
 <h2>Questions Answered</h2>
 The following are a few of the questions that are answered in the project (check out analysis.sql file for the rest):
 
-What are the most popular genres of music?
-What are the most popular artists?
-What are the most popular songs?
-What are the average prices of different types of music?
-What are the most popular countries for music purchases?
+What are the most popular genres of music?<br>
+What are the most popular artists?<br>
+What are the most popular songs?<br>
+What are the average prices of different types of music?<br>
+What are the most popular countries for music purchases?<br>
 
 <h2>Results</h2>
 The results of the project are as follows:
