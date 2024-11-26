@@ -13,7 +13,7 @@ Import csv files provided in the dataset folder.
 Note: If you are using PostgreSQL then restore the backup file of the database and save yourself some time.
 
 <h2>Questions Answered</h2>
-The following are a few of the questions that are answered in the project (check out analysis.sql file for the rest):
+The following are a few of the questions that are answered in the project (check out analysis.sql file for the rest:
 
 What are the most popular genres of music?<br>
 What are the most popular artists?<br>
